@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esto es una prueba de juan manuel PARA VER QUE PASAS
+=======
+esto es una prueba de juan manuel es gay
+>>>>>>> 442de83db208557597f498afe54f3388e521ce62
